@@ -1,2 +1,2 @@
 # quiz-game
-Quiz game
+10 questions - quiz game
