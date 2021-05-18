@@ -1,0 +1,1982 @@
+[
+  {
+    "answer1": "Gertrud",
+    "id": 30,
+    "correctAnswerIndex": "4",
+    "answer4": "Ophelia",
+    "question": "Hogy hívják Hamlet szerelmét Shakespeare drámájában?",
+    "answer2": "Fortinbras",
+    "answer3": "Daniella"
+  },
+  {
+    "answer4": "206",
+    "id": 10,
+    "answer3": "308",
+    "question": "Hány csontból áll az emberi csontváz?",
+    "answer1": "290",
+    "correctAnswerIndex": "4",
+    "answer2": "210"
+  },
+  {
+    "question": "Ki alapította az első nyomdát Magyarországon?",
+    "answer2": "Hess András",
+    "id": 12,
+    "answer1": "Heltai Gáspár",
+    "correctAnswerIndex": "2",
+    "answer4": "Károli Gáspár",
+    "answer3": " Bornemisza Péter "
+  },
+  {
+    "answer3": "Oroszlán és ember",
+    "answer1": "Sas és ember",
+    "answer4": "Ló és ember",
+    "question": "Milyen testtel ábrázolják leginkább a szfinxeket?",
+    "answer2": "Oroszlán és sas",
+    "correctAnswerIndex": "3",
+    "id": 69
+  },
+  {
+    "answer2": "Kaliber",
+    "answer3": "Táliber",
+    "correctAnswerIndex": "2",
+    "id": 204,
+    "question": "Hogyan nevezik a hengeres furat belső méretét?",
+    "answer1": "Kandeláber",
+    "answer4": "Kandela"
+  },
+  {
+    "question": "Mi a cink kémiai jele?",
+    "answer3": "Zn",
+    "id": 192,
+    "answer4": "Zk",
+    "answer2": "Ck",
+    "answer1": "Cn",
+    "correctAnswerIndex": "3"
+  },
+  {
+    "answer1": "Mexikó",
+    "id": 18,
+    "correctAnswerIndex": "1",
+    "question": "Melyik a világ leggazdagabb ezüsttermelő országa?",
+    "answer3": "Peru",
+    "answer4": "Lengyelország",
+    "answer2": "Kína"
+  },
+  {
+    "answer4": "Horatius",
+    "answer3": "Brutus",
+    "question": "Ki volt Julius Ceaser egyik gyilkosa?",
+    "correctAnswerIndex": "3",
+    "id": 100,
+    "answer2": "Tacitus",
+    "answer1": "Hannibál"
+  },
+  {
+    "question": "Melyik ókori állam uralkodója volt Ramszesz?",
+    "answer4": "Kínai császárság",
+    "answer3": "Egyiptomi Birodalom",
+    "id": 93,
+    "correctAnswerIndex": "3",
+    "answer2": "Athéni városállam",
+    "answer1": "Római Birodalom"
+  },
+  {
+    "question": "Ki tervezte a Szuezi-csatornát?",
+    "correctAnswerIndex": "2",
+    "id": 173,
+    "answer1": "Türr István",
+    "answer3": "Gustave Eiffel",
+    "answer4": "Hauszmann Alajos",
+    "answer2": "Lesseps Ferdinánd"
+  },
+  {
+    "answer2": "Görögország",
+    "answer3": "Románia",
+    "answer1": "Törökország",
+    "correctAnswerIndex": "2",
+    "question": "Melyik ország kolostorvidéke a Meteórák?",
+    "answer4": "Bulgária",
+    "id": 214
+  },
+  {
+    "id": 32,
+    "question": "Mi a kálcium kémiai vegyjele?",
+    "answer3": "Ka",
+    "answer4": "Cl",
+    "answer1": "C",
+    "correctAnswerIndex": "2",
+    "answer2": "Ca"
+  },
+  {
+    "answer2": "Szegeden",
+    "answer1": "Debrecenben",
+    "answer4": "Nyíregyházán",
+    "correctAnswerIndex": "1",
+    "question": "Melyik városban játszódik a Légy jó mindhalálig?",
+    "id": 206,
+    "answer3": "Pécsett"
+  },
+  {
+    "answer2": "Arisztotelész",
+    "correctAnswerIndex": "3",
+    "answer3": "Isaac Newton",
+    "question": "Ki fedezte fel a tömegvonzás törvényét?",
+    "answer4": "Albert Einstein",
+    "answer1": "Galileo Galilei",
+    "id": 165
+  },
+  {
+    "id": 138,
+    "answer3": "Slade",
+    "answer2": "AC/DC",
+    "answer4": "Queen",
+    "correctAnswerIndex": "4",
+    "answer1": "Sweet",
+    "question": "Melyik együttes énekese volt Freddie Mercury?"
+  },
+  {
+    "id": 51,
+    "question": "Hogyan nevezzük a fajtisztán tenyésztett kiváló lovat?",
+    "answer1": "Kanca",
+    "answer3": "Musztáng",
+    "correctAnswerIndex": "4",
+    "answer2": "Gebe",
+    "answer4": "Telivér"
+  },
+  {
+    "id": 50,
+    "answer2": "9.89 mp",
+    "answer3": "9.79 mp",
+    "question": "Mennyi a 100 méteres síkfutás jelenlegi világrekordja?",
+    "answer4": "9.58 mp",
+    "correctAnswerIndex": "4",
+    "answer1": "9.98 mp"
+  },
+  {
+    "answer4": "Olasz felvágott",
+    "answer2": "Francia eredetű sajt",
+    "answer1": "Egzotikus gyümölcs",
+    "id": 92,
+    "answer3": "Lekváros sütemény",
+    "question": "Milyen ételfajta a camembert?",
+    "correctAnswerIndex": "2"
+  },
+  {
+    "id": 86,
+    "answer4": "II. világháború",
+    "answer3": "I. világháború",
+    "correctAnswerIndex": "2",
+    "question": "Melyik esemény kapcsolható IV. Béla uralkodásához?",
+    "answer2": "Tatárjárás",
+    "answer1": "Mohács elesete"
+  },
+  {
+    "id": 107,
+    "question": "Hogyan nevezik a Greenwichen átmenő kezdő délkört?",
+    "correctAnswerIndex": "2",
+    "answer3": "Egyenlítő",
+    "answer1": "Alap térítő",
+    "answer4": "Sarki szélesség",
+    "answer2": "Nulla meridián"
+  },
+  {
+    "answer2": "Szajna",
+    "answer1": "Rajna",
+    "answer4": "Loire",
+    "id": 37,
+    "answer3": "Rhone",
+    "question": "Melyik folyó folyik Párizson keresztül?",
+    "correctAnswerIndex": "2"
+  },
+  {
+    "answer1": "Epigramma",
+    "answer3": "Episztola",
+    "answer4": "Prominens",
+    "id": 189,
+    "answer2": "Prológus",
+    "correctAnswerIndex": "2",
+    "question": "Mi az ellentéte az epilógusnak?"
+  },
+  {
+    "answer2": "Gyógyszer",
+    "answer4": "Műhold",
+    "question": "Mi a szputnyik szó magyar jelentése?",
+    "answer1": "Útitárs",
+    "answer3": "Űrhajó",
+    "correctAnswerIndex": "1",
+    "id": 35
+  },
+  {
+    "answer1": "Manchester",
+    "answer2": "Liverpool",
+    "answer3": "London",
+    "id": 79,
+    "correctAnswerIndex": "3",
+    "answer4": "Dublin",
+    "question": "Mely város nevezetessége a British Museum?"
+  },
+  {
+    "answer3": "Norvégia",
+    "answer4": "Finnország",
+    "correctAnswerIndex": "3",
+    "answer1": "Svédország",
+    "id": 139,
+    "question": "Melyik országban van Narvik?",
+    "answer2": "Oroszroszág"
+  },
+  {
+    "answer2": "A teve",
+    "correctAnswerIndex": "2",
+    "answer1": "A gyík",
+    "question": "Mi a sivatag hajója?",
+    "answer3": "A ló",
+    "answer4": "A krokodil",
+    "id": 151
+  },
+  {
+    "correctAnswerIndex": "1",
+    "question": "Kik találták fel a mozgóképgyártást?",
+    "answer3": "A Maxwell fivérek",
+    "answer2": "Joseph Nicéphore és Louis Daguerre",
+    "answer4": "William Fox Talbot és neje Isabella",
+    "answer1": "A Lumiére fivérek",
+    "id": 27
+  },
+  {
+    "answer2": "Puma",
+    "answer1": "Hiúz",
+    "correctAnswerIndex": "4",
+    "answer4": "Sakál",
+    "question": "Az alábbiak közül melyik nem macskaféle?",
+    "answer3": "Jaguár",
+    "id": 66
+  },
+  {
+    "answer3": "Sósav",
+    "id": 108,
+    "correctAnswerIndex": "2",
+    "answer1": "Kénsav",
+    "answer2": "Salétromsav",
+    "question": "Minek a képlete a HNO3?",
+    "answer4": "Forszforsav"
+  },
+  {
+    "answer4": "Homérosz",
+    "answer3": "Aiszkhülosz",
+    "answer1": "Vergilius",
+    "correctAnswerIndex": "4",
+    "id": 110,
+    "question": "Ki az Iliász és az Odüsszeia szerzője?",
+    "answer2": "Horatius"
+  },
+  {
+    "id": 176,
+    "correctAnswerIndex": "2",
+    "answer3": "Szöulban",
+    "answer2": "Atlantában",
+    "answer1": "Barcelonában",
+    "question": "Hol rendezték 1996-ban az olimpiát?",
+    "answer4": "Sidney-ben"
+  },
+  {
+    "answer3": "Golf",
+    "answer1": "Humboldt",
+    "id": 131,
+    "answer4": "Amerigo",
+    "question": "Melyik áramlás vonul végig Nyugat-Európa partjainál?",
+    "correctAnswerIndex": "3",
+    "answer2": "Magellán"
+  },
+  {
+    "correctAnswerIndex": "2",
+    "answer2": "Junker",
+    "answer1": "Trapper",
+    "id": 210,
+    "question": "Mi volt a porosz nemesi nagybirtokos neve?",
+    "answer4": "Bauer",
+    "answer3": "Vend"
+  },
+  {
+    "question": "Mi a hármasfogat orosz neve?",
+    "answer3": "Triga",
+    "id": 118,
+    "correctAnswerIndex": "1",
+    "answer2": "Tricska",
+    "answer1": "Trojka",
+    "answer4": "Tripli"
+  },
+  {
+    "answer4": "Michael Fassbender",
+    "answer3": "Keanu Reeves",
+    "answer2": "Jake Gyllenhaal",
+    "answer1": "Steven Spielberg",
+    "question": "Ki játszotta Neo-t a Mátrix című filmben?",
+    "correctAnswerIndex": "3",
+    "id": 7
+  },
+  {
+    "id": 26,
+    "correctAnswerIndex": "3",
+    "answer1": "24",
+    "answer2": "114",
+    "answer3": "144",
+    "question": "Hány darab van egy nagytucatban?",
+    "answer4": "1028"
+  },
+  {
+    "answer4": "Capulet Júlia",
+    "answer3": "Cecey Éva",
+    "correctAnswerIndex": "3",
+    "answer2": "Izolda",
+    "id": 106,
+    "answer1": "Tóth Mari",
+    "question": "Ki Bornemissza Gergő szerelme az Egri csillagokban?"
+  },
+  {
+    "question": "Milyen intézményben tevékenykedik az esküdtszék?",
+    "answer2": "Bíróságon",
+    "answer1": "Parlamentben",
+    "correctAnswerIndex": "2",
+    "answer3": "Iskolában",
+    "id": 76,
+    "answer4": "Rendőrőrsön"
+  },
+  {
+    "answer2": "Edda-dalok",
+    "correctAnswerIndex": "4",
+    "answer4": "Kalevala",
+    "id": 136,
+    "answer1": "Kalevipoeg",
+    "answer3": "Gilgames",
+    "question": "Mi a finnek nemzeti eposzának címe?"
+  },
+  {
+    "answer4": "Frank",
+    "answer3": "Dollár",
+    "answer2": "Korona",
+    "id": 198,
+    "answer1": "Font",
+    "question": "Mi Kanada pénzneme?",
+    "correctAnswerIndex": "3"
+  },
+  {
+    "id": 178,
+    "correctAnswerIndex": "4",
+    "answer2": "Máriás",
+    "answer1": "Skíz",
+    "answer3": "Snúr",
+    "answer4": "Snóbli",
+    "question": "Tenyérbe dugott pénzzel játszott szerencsejáték?"
+  },
+  {
+    "question": "Melyik sportág nemzetközi neve a squash?",
+    "answer4": "Hegymászás",
+    "answer1": "Vadvízi evezés",
+    "correctAnswerIndex": "3",
+    "id": 67,
+    "answer3": "Fallabda",
+    "answer2": "Görkorcsolyázás"
+  },
+  {
+    "answer3": "200",
+    "id": 148,
+    "correctAnswerIndex": "3",
+    "answer2": "1000",
+    "answer4": "2000",
+    "question": "Hány évenként rendeznek bicentenáriumot?",
+    "answer1": "100"
+  },
+  {
+    "answer3": "Piros",
+    "answer1": "Tök",
+    "correctAnswerIndex": "4",
+    "id": 87,
+    "answer2": "Makk",
+    "question": "Melyik nem a magyar kártya színe az alábbiak közül?",
+    "answer4": "Kék"
+  },
+  {
+    "id": 123,
+    "correctAnswerIndex": "1",
+    "answer4": "Macchia",
+    "answer3": "Autarchia",
+    "answer2": "Monarchia",
+    "question": "Központi hatalom hiánya, zűrzavar, fejetlenség.",
+    "answer1": "Anarchia"
+  },
+  {
+    "answer3": "180",
+    "answer2": "90",
+    "id": 31,
+    "answer4": "360",
+    "question": "Hány fok az egyenes szög?",
+    "correctAnswerIndex": "3",
+    "answer1": "0"
+  },
+  {
+    "question": "Ki készítette a Gondolkodó című szobrot?",
+    "correctAnswerIndex": "4",
+    "answer2": "Medgyessy Ferenc",
+    "id": 218,
+    "answer4": "Rodin",
+    "answer3": "Michelangelo",
+    "answer1": "Izsó Miklós"
+  },
+  {
+    "answer2": "Ag",
+    "answer1": "Ar",
+    "answer4": "Gd",
+    "answer3": "Au",
+    "id": 172,
+    "correctAnswerIndex": "3",
+    "question": "Mi az arany kémiai jele?"
+  },
+  {
+    "answer1": "A színészeket",
+    "correctAnswerIndex": "1",
+    "answer2": "A múzsákat",
+    "question": "Kiket neveznek Thália papjainak?",
+    "id": 179,
+    "answer4": "A táncosokat",
+    "answer3": "A zenészeket"
+  },
+  {
+    "id": 21,
+    "correctAnswerIndex": "1",
+    "answer4": "CuSO4",
+    "answer1": "C6H6",
+    "answer2": "C2H4",
+    "answer3": "H2SO4",
+    "question": "Mi a benzol kémiai képlete?"
+  },
+  {
+    "answer4": "Volt",
+    "answer3": "Joule",
+    "id": 168,
+    "question": "Mi az elektromos ellenállás mértékegysége?",
+    "answer1": "Ohm",
+    "correctAnswerIndex": "1",
+    "answer2": "Watt"
+  },
+  {
+    "question": "Kiknek a hobbijához köthető leginkább a damil?",
+    "answer4": "Vadászok",
+    "id": 88,
+    "correctAnswerIndex": "3",
+    "answer3": "Horgászok",
+    "answer2": "Bélyeggyűjtők",
+    "answer1": "Barkácsolók"
+  },
+  {
+    "correctAnswerIndex": "3",
+    "answer4": "Sínpályákon",
+    "answer2": "A légtérben",
+    "answer3": "Folyókon",
+    "answer1": "Közutakon",
+    "id": 84,
+    "question": "Hol közlekednek az uszályok?"
+  },
+  {
+    "answer3": "Százéves évfordulót",
+    "answer1": "Gyógyszergyártást",
+    "answer2": "Holtestek újbóli kiásását",
+    "question": "Mit nevezünk exhumálásnak?",
+    "id": 34,
+    "correctAnswerIndex": "2",
+    "answer4": "Műtéti eljárást"
+  },
+  {
+    "answer2": "9",
+    "answer3": "27",
+    "id": 1,
+    "correctAnswerIndex": "3",
+    "question": "Mennyi 3^3?",
+    "answer1": "3",
+    "answer4": "81"
+  },
+  {
+    "id": 104,
+    "answer3": "A világvárosokat",
+    "answer1": "A méhek által termelt anyagot",
+    "answer2": "A modern földalattit",
+    "answer4": "A nemzetközi rendőrséget",
+    "correctAnswerIndex": "3",
+    "question": "Mit nevezünk metropolisznak?"
+  },
+  {
+    "answer2": "Thomas Mann",
+    "answer1": "Heinrich Mann",
+    "question": "Ki a \"fehérek közt egy európai\"?",
+    "id": 154,
+    "answer3": "Klaus Mann",
+    "correctAnswerIndex": "2",
+    "answer4": "Stefan Zweig"
+  },
+  {
+    "question": "Mikor volt a Dózsa-féle paraszthááború?",
+    "answer2": "1526",
+    "answer4": "1514",
+    "id": 175,
+    "answer3": "1241",
+    "answer1": "1444",
+    "correctAnswerIndex": "4"
+  },
+  {
+    "answer4": "Cápa",
+    "answer1": "Tigris",
+    "question": "Milyen állat a rettegett \"fekete özvegy\"?",
+    "id": 75,
+    "answer3": "Kobra",
+    "correctAnswerIndex": "2",
+    "answer2": "Pók"
+  },
+  {
+    "answer4": "Béke Veletek!",
+    "id": 23,
+    "answer3": "Áldás szálljon rátok!",
+    "answer2": "További szép napot!",
+    "correctAnswerIndex": "4",
+    "answer1": "Isten hozott!",
+    "question": "Mit jelent az arabok köszöntése, a \"szálem alejkum\"?"
+  },
+  {
+    "answer1": "A Fekete-erdőben",
+    "answer3": "A Rengeteg-erdőben",
+    "id": 141,
+    "question": "Melyik erdőben élt Robin Hood?",
+    "correctAnswerIndex": "4",
+    "answer2": "A Stonehenge-i erdőben",
+    "answer4": "A Sherwoodi erdőben"
+  },
+  {
+    "answer3": "Vezúv",
+    "answer2": "Etna",
+    "question": "Mi a Taorminával szembeni tűzhányó neve?",
+    "answer1": "Stromboli",
+    "correctAnswerIndex": "2",
+    "answer4": "Popocatépeti",
+    "id": 182
+  },
+  {
+    "question": "Mi Hollandia fővárosa?",
+    "answer1": "Amszterdam",
+    "id": 42,
+    "answer4": "Hága",
+    "answer3": "Rotterdam",
+    "correctAnswerIndex": "1",
+    "answer2": "Eindhoven"
+  },
+  {
+    "answer1": "Sztalagmit",
+    "question": "Gyűrű alakú korallzátony egy szóval?",
+    "answer2": "Sztalagtit",
+    "answer4": "Sztélé",
+    "id": 177,
+    "answer3": "Atoll",
+    "correctAnswerIndex": "3"
+  },
+  {
+    "answer2": "Szőrérzékenységgel",
+    "answer3": "Másnapossággal",
+    "id": 72,
+    "answer1": "Tejallergiával",
+    "answer4": "Egériszonnyal",
+    "question": "Mivel küszködik, akit macskajaj gyötör?",
+    "correctAnswerIndex": "3"
+  },
+  {
+    "id": 77,
+    "answer2": "Csomóban",
+    "correctAnswerIndex": "2",
+    "answer4": "Fontban",
+    "question": "Miben mérik hagyományosan a tengeri hajók sebességét?",
+    "answer1": "Lábban",
+    "answer3": "Hüvelykben"
+  },
+  {
+    "correctAnswerIndex": "2",
+    "answer1": "James Cook",
+    "question": "Kinek a vezérhajója volt a Santa Maria?",
+    "answer4": "Bartolomeo Diaz",
+    "answer3": "Magellán",
+    "id": 83,
+    "answer2": "Kolombusz"
+  },
+  {
+    "answer4": "Arizona",
+    "question": "Mi volt a neve Kolombusz vezérhajójának?",
+    "correctAnswerIndex": "3",
+    "id": 13,
+    "answer1": "Pinta",
+    "answer3": "Santa Maria",
+    "answer2": "Bismarck"
+  },
+  {
+    "answer1": "1697",
+    "answer3": "1854",
+    "answer4": "1895",
+    "id": 43,
+    "correctAnswerIndex": "3",
+    "answer2": "1801",
+    "question": "Mióta közlekednek az emberek kerékpáron?"
+  },
+  {
+    "answer1": "Edinburgh, Royal Mile",
+    "answer3": "London, Downing Street 10",
+    "answer2": "Windsor, a kastély",
+    "question": "Hol van a mindenkori angol miniszterelnök lakhelye?",
+    "answer4": "Canterbury, a katedrális",
+    "correctAnswerIndex": "3",
+    "id": 163
+  },
+  {
+    "correctAnswerIndex": "3",
+    "id": 73,
+    "answer3": "Vedd el a lányát",
+    "question": "Hogyan szól a mondás? \"Nézd meg az anyját, ...\"",
+    "answer2": "Csapd a szelet a nővérének",
+    "answer4": "Nézd meg őt is mégegyszer",
+    "answer1": "Kerüld az apját"
+  },
+  {
+    "answer1": "Nevada-bogár",
+    "id": 144,
+    "question": "Földrajzi nevet viselő, a burgonyát pusztító bogár.",
+    "correctAnswerIndex": "3",
+    "answer3": "Kolorádó-bogár",
+    "answer4": "Virginia-bogár",
+    "answer2": "Alabama-bogár"
+  },
+  {
+    "id": 6,
+    "answer2": "Lengyelország",
+    "correctAnswerIndex": "3",
+    "answer4": "Málta",
+    "question": "Melyik országban található Trieszt?",
+    "answer3": "Olaszország",
+    "answer1": "Izrael"
+  },
+  {
+    "answer3": "Rand",
+    "question": "Mi Izrael pénzneme?",
+    "answer1": "Rial",
+    "answer2": "Shékel",
+    "id": 186,
+    "answer4": "Dínár",
+    "correctAnswerIndex": "2"
+  },
+  {
+    "answer1": "Sidney",
+    "id": 195,
+    "correctAnswerIndex": "3",
+    "answer4": "Perth",
+    "answer2": "Melbourne",
+    "question": "Mi Ausztrália fővárosa?",
+    "answer3": "Canberra"
+  },
+  {
+    "id": 135,
+    "correctAnswerIndex": "4",
+    "answer2": "Irányi Dániel",
+    "answer1": "Irányi János",
+    "answer3": "Irinyi Dániel",
+    "answer4": "Irinyi János",
+    "question": "Ki találta fel a zajtalan gyufát?"
+  },
+  {
+    "question": "Hányszoros magyar válogatott Puskás Ferenc?",
+    "answer1": "85",
+    "answer2": "99",
+    "id": 28,
+    "correctAnswerIndex": "1",
+    "answer4": "105",
+    "answer3": "100"
+  },
+  {
+    "correctAnswerIndex": "3",
+    "answer3": "Szaúd-Arábiában",
+    "id": 184,
+    "answer1": "Jemenben",
+    "answer2": "Irakban",
+    "question": "Melyik országban van Mekka?",
+    "answer4": "Szíriában"
+  },
+  {
+    "question": "Melyik földrészen feküdt egykor Abesszínia állam?",
+    "id": 65,
+    "correctAnswerIndex": "3",
+    "answer1": "Dél-Amerika",
+    "answer4": "Antarktisz",
+    "answer3": "Afrika",
+    "answer2": "Ausztrália"
+  },
+  {
+    "answer2": "Vác",
+    "answer1": "Mohács",
+    "question": "Melyik város labdarúgócsapata a Dunaferr?",
+    "answer3": "Győr",
+    "answer4": "Dunaújváros",
+    "id": 58,
+    "correctAnswerIndex": "4"
+  },
+  {
+    "answer2": "1918",
+    "id": 17,
+    "answer4": "1956",
+    "correctAnswerIndex": "3",
+    "answer3": "1949",
+    "answer1": "1945",
+    "question": "Melyik évben alakult meg a NATO?"
+  },
+  {
+    "answer3": "Jó",
+    "answer1": "Elégtelen",
+    "id": 94,
+    "question": "Milyen osztályzat volt a szekunda?",
+    "answer2": "Közepes",
+    "answer4": "Kiváló",
+    "correctAnswerIndex": "1"
+  },
+  {
+    "answer3": "Kronosz",
+    "answer2": "Fárosz",
+    "answer4": "Káosz",
+    "answer1": "Küklopsz",
+    "id": 201,
+    "correctAnswerIndex": "1",
+    "question": "Mi a neve a görög mondabeli egyszemű óriásnak?"
+  },
+  {
+    "answer3": "IV. Béla",
+    "question": "Ki volt az utolsó Árpád-házi király?",
+    "answer1": "III. László",
+    "answer4": "III. András",
+    "answer2": "V. István",
+    "id": 14,
+    "correctAnswerIndex": "4"
+  },
+  {
+    "correctAnswerIndex": "2",
+    "answer4": "Tricikli",
+    "question": "Mi a kétüléses bicikli neve?",
+    "id": 202,
+    "answer2": "Tandem",
+    "answer3": "Biplán",
+    "answer1": "Panem"
+  },
+  {
+    "answer4": "Sóder",
+    "answer3": "Kaolin",
+    "answer1": "Agyag",
+    "question": "Mi a porcelángyártás alapanyaga?",
+    "answer2": "Homok",
+    "id": 114,
+    "correctAnswerIndex": "3"
+  },
+  {
+    "answer4": "Cserebogár",
+    "answer3": "Szkarabeusz",
+    "id": 121,
+    "answer2": "Szentjánosbogár",
+    "question": "Melyik a régi egyiptomiak szentnek tartott bogara?",
+    "answer1": "Szarvasbogár",
+    "correctAnswerIndex": "3"
+  },
+  {
+    "correctAnswerIndex": "2",
+    "answer1": "Richard Wagner",
+    "answer4": "Edith Piaf",
+    "question": "Ki az avoni hattyú?",
+    "answer3": "Salvador Dali",
+    "answer2": "William Shakespeare",
+    "id": 191
+  },
+  {
+    "question": "Hol ered az Elba folyó?",
+    "answer1": "Németországban",
+    "correctAnswerIndex": "2",
+    "id": 97,
+    "answer3": "Belgiumban",
+    "answer4": "Franciaországban",
+    "answer2": "Csehországban"
+  },
+  {
+    "answer4": "Tíz",
+    "answer2": "Nyolc",
+    "correctAnswerIndex": "3",
+    "answer3": "Kilenc",
+    "question": "Hány lyuka van a Hortobágyi-hídnak?",
+    "id": 109,
+    "answer1": "Hét"
+  },
+  {
+    "answer1": "Indiai étel",
+    "answer2": "Bűvös tárgy",
+    "correctAnswerIndex": "2",
+    "answer3": "Ókori íróeszköz",
+    "question": "Mi az amulett?",
+    "id": 49,
+    "answer4": "Amerikai indián törzs"
+  },
+  {
+    "answer1": "Konszernekbe",
+    "answer3": "Betéti társaságokba",
+    "answer2": "Céhekbe",
+    "question": "Milyen szervezetekbe tömörültek a középkori kézművesek?",
+    "id": 103,
+    "answer4": "Trösztökbe",
+    "correctAnswerIndex": "2"
+  },
+  {
+    "answer3": "Kosztolányi Dezső",
+    "answer1": "Mikszáth Kálmán",
+    "answer2": "Kazinczy Ferenc",
+    "question": "Kinek a műve az Így írtok ti?",
+    "correctAnswerIndex": "4",
+    "answer4": "Karinthy Frigyes",
+    "id": 19
+  },
+  {
+    "question": "Az alábbiak közül melyik egy Thomas Mann-regény?",
+    "answer3": "József és testvérei",
+    "correctAnswerIndex": "3",
+    "answer2": "Noé bárkája",
+    "id": 102,
+    "answer1": "Jákob lajtorjája",
+    "answer4": "Bálám szamara"
+  },
+  {
+    "answer1": "A kairói bazárban",
+    "answer2": "A damaszkuszi parlamentben",
+    "question": "Hol van a Kába-kő?",
+    "answer3": "A mekkai mecset udvarán",
+    "correctAnswerIndex": "3",
+    "answer4": "A kuvaiti emír palotájában",
+    "id": 116
+  },
+  {
+    "answer1": "Nagykőrös",
+    "answer4": "Debrecen",
+    "id": 2,
+    "question": "Hol született Petőfi Sándor?",
+    "correctAnswerIndex": "2",
+    "answer3": "Budapest",
+    "answer2": "Kiskőrös"
+  },
+  {
+    "answer3": "Ragadozó madár",
+    "answer2": "Egypupú teve",
+    "id": 159,
+    "answer1": "Kétpupú teve",
+    "correctAnswerIndex": "2",
+    "answer4": "Nílusi hüllő",
+    "question": "Mi a dromedár?"
+  },
+  {
+    "answer4": "Zorro",
+    "answer1": "Sajó",
+    "correctAnswerIndex": "3",
+    "answer3": "Zoro",
+    "id": 150,
+    "answer2": "Hacsek",
+    "question": "Némafilmek sztárja, Huru párja. Ki ő?"
+  },
+  {
+    "id": 9,
+    "answer1": "Franciaország",
+    "question": "Hol volt a 2006-os labdarúgó-világbajnokság?",
+    "answer4": "Németország",
+    "answer3": "Brazília",
+    "answer2": "Kína",
+    "correctAnswerIndex": "4"
+  },
+  {
+    "answer1": "Harkány",
+    "correctAnswerIndex": "3",
+    "answer4": "Zalakaros",
+    "id": 142,
+    "question": "Melyik magyar gyógyfürdőben nőttek tündérrózsák?",
+    "answer2": "Hajdúszoboszló",
+    "answer3": "Hévíz"
+  },
+  {
+    "answer1": "1912",
+    "correctAnswerIndex": "1",
+    "answer4": "1899",
+    "id": 5,
+    "question": "Melyik évben süllyedt el a Titanic?",
+    "answer2": "1914",
+    "answer3": "1919"
+  },
+  {
+    "question": "Ki írt verset Flórához?",
+    "answer2": "Balassi Bálint",
+    "correctAnswerIndex": "3",
+    "answer3": "József Attila",
+    "answer1": "Ady Endre",
+    "id": 129,
+    "answer4": "Csokonai Vitéz Mihály"
+  },
+  {
+    "correctAnswerIndex": "2",
+    "question": "Hogy hívjuk latinul az orvosi tanácskozást?",
+    "answer4": "Koncenzus",
+    "answer3": "Konszenzus",
+    "answer2": "Konzílium",
+    "id": 152,
+    "answer1": "Konzulátus"
+  },
+  {
+    "answer3": "Szabó István",
+    "answer1": "Makk Károly",
+    "id": 112,
+    "question": "Ki az első magyar Oscar-díjas játékfilm-rendező?",
+    "answer2": "Keleti Márton",
+    "correctAnswerIndex": "3",
+    "answer4": "Szőts István"
+  },
+  {
+    "correctAnswerIndex": "2",
+    "question": "Miről nevezetes Aggtelek?",
+    "answer2": "Cseppkőbarlangjáról",
+    "answer1": "Őskori váráról",
+    "id": 68,
+    "answer3": "Uránbányájáról",
+    "answer4": "Forma 1-es pályájáról"
+  },
+  {
+    "answer3": "1960",
+    "answer4": "1966",
+    "answer1": "1944",
+    "answer2": "1955",
+    "id": 44,
+    "correctAnswerIndex": "2",
+    "question": "Melyik évben született Bruce Willis?"
+  },
+  {
+    "question": "Ki rendezte A napfény íze című magyar filmet?",
+    "answer1": "Jancsó Miklós",
+    "answer2": "Tímár Péter",
+    "correctAnswerIndex": "4",
+    "answer4": "Szabó István",
+    "answer3": "Mészáros Márta",
+    "id": 78
+  },
+  {
+    "id": 145,
+    "answer3": "Erő",
+    "answer2": "Munka",
+    "correctAnswerIndex": "1",
+    "question": "Mi a munkavégző képesség a fizikában egy szóval?",
+    "answer1": "Energia",
+    "answer4": "Nyomás"
+  },
+  {
+    "answer4": "Monte Christo",
+    "correctAnswerIndex": "2",
+    "answer3": "A spanyol trónörökös",
+    "answer1": "Tulipános Fanfan",
+    "question": "Ki Dumas regényében a három testőr ellenfele?",
+    "answer2": "Richelieu bíboros",
+    "id": 63
+  },
+  {
+    "answer4": "100 négyzetméteren 1000 kg nyomás",
+    "answer3": "1 négyzetméteren 100 kg nyomás",
+    "correctAnswerIndex": "1",
+    "answer1": "1 négyzetcentiméteren 1 kg nyomás",
+    "question": "Mennyi egy atmoszféra nyomás?",
+    "answer2": "1 négyzetméteren 1 kg nyomás",
+    "id": 33
+  },
+  {
+    "correctAnswerIndex": "4",
+    "answer4": "Kajmán",
+    "question": "Melyik egy kisebb amerikai krokodilfajta?",
+    "id": 185,
+    "answer2": "Marabu",
+    "answer1": "Gnu",
+    "answer3": "Okapi"
+  },
+  {
+    "answer1": "A Hormuszi-szoros",
+    "answer3": "A Gibraltári-szoros",
+    "answer2": "A Szuezi-csatorna",
+    "correctAnswerIndex": "3",
+    "id": 149,
+    "answer4": "A Korinthoszi-csatorna",
+    "question": "Mi köti össze a Földközi-tengert az Atlanti-óceánnal?"
+  },
+  {
+    "answer1": "Kínai császárok",
+    "id": 200,
+    "correctAnswerIndex": "2",
+    "answer2": "Japán fővezérek",
+    "question": "Kik voltak a sógunok?",
+    "answer3": "Koreai földbirtokosok",
+    "answer4": "Vietnami partizánok"
+  },
+  {
+    "question": "Hogyan nevezik az indiántörténetekben a whisky-t?",
+    "correctAnswerIndex": "2",
+    "answer1": "Büdös lé",
+    "answer3": "Esőisten ajándéka",
+    "id": 70,
+    "answer2": "Tüzes víz",
+    "answer4": "A gyomor orvosa"
+  },
+  {
+    "answer3": "Tersánszky Józsi Jenő",
+    "id": 199,
+    "answer2": "Lázár Ervin",
+    "answer1": "Benedek Elek",
+    "question": "Kinek a mesehőse Misi Mókus?",
+    "answer4": "Janikovszky Éva",
+    "correctAnswerIndex": "3"
+  },
+  {
+    "correctAnswerIndex": "3",
+    "answer4": "Zöld és barna",
+    "question": "Mely színek keveréke a szürke?",
+    "answer2": "Fehér és kék",
+    "answer1": "Kék és fekete",
+    "answer3": "Fekete és fehér",
+    "id": 171
+  },
+  {
+    "id": 166,
+    "question": "Melyik országban található a Szilícium-völgy?",
+    "correctAnswerIndex": "3",
+    "answer3": "USA",
+    "answer2": "India",
+    "answer4": "Dél-Afrika",
+    "answer1": "Mexikó"
+  },
+  {
+    "question": "Mi a muzulmán főtemplomok neve?",
+    "answer1": "Minaret",
+    "answer3": "Dzsámi",
+    "answer4": "Ramadán",
+    "id": 132,
+    "correctAnswerIndex": "3",
+    "answer2": "Dzsihád"
+  },
+  {
+    "answer3": "Marcus Aurelius",
+    "answer4": "Giovanni Messe",
+    "correctAnswerIndex": "2",
+    "answer1": "Bartolomeo d’Alviano",
+    "id": 40,
+    "answer2": "Benito Mussolini",
+    "question": "Kinek a nevéhez köthető a \"Marcia su Roma\"?"
+  },
+  {
+    "answer3": "Bricsesz",
+    "question": "Mi a lovagláshoz használt csizmanadrág neve?",
+    "id": 113,
+    "answer4": "Barchesz",
+    "answer2": "Brácsa",
+    "correctAnswerIndex": "3",
+    "answer1": "Bricska"
+  },
+  {
+    "answer1": "San Sebastian",
+    "correctAnswerIndex": "4",
+    "answer2": "Portimao",
+    "question": "Melyik Spanyolország legnagyobb kikötője?",
+    "id": 22,
+    "answer4": "Barcelona",
+    "answer3": "Valencia"
+  },
+  {
+    "answer2": "0,5 tonnát",
+    "answer3": "5 tonnát",
+    "answer1": "0,05 tonnát",
+    "id": 46,
+    "question": "Hány tonnát tesz ki 5000 kg?",
+    "answer4": "50 tonnát",
+    "correctAnswerIndex": "3"
+  },
+  {
+    "correctAnswerIndex": "2",
+    "answer4": "Omikron",
+    "id": 161,
+    "answer1": "Zéta",
+    "answer3": "Epszilon",
+    "question": "Mi a görög ábécé utolsó betűje?",
+    "answer2": "Omega"
+  },
+  {
+    "id": 183,
+    "answer1": "Arany János",
+    "correctAnswerIndex": "1",
+    "question": "Kinek a jegyzeteit tartalmazza a Kapcsos könyv?",
+    "answer4": "Madách Imre",
+    "answer3": "Radnóti Miklós",
+    "answer2": "Petőfi Sándor"
+  },
+  {
+    "answer4": "Kalifornia",
+    "answer1": "Texas",
+    "correctAnswerIndex": "2",
+    "question": "Melyik az USA legnagyobb területű állama?",
+    "answer3": "Hawaii",
+    "id": 160,
+    "answer2": "Alaszka"
+  },
+  {
+    "answer4": "Pest-Székesfehérvár",
+    "answer3": "Pest-Vác",
+    "id": 120,
+    "correctAnswerIndex": "3",
+    "answer2": "Pest-Cegléd",
+    "question": "Melyik volt hazánkban az első vasútvonal?",
+    "answer1": "Pest-Hatvan"
+  },
+  {
+    "answer4": "Hajdú-Bihar megye",
+    "answer1": "Pest megye",
+    "id": 20,
+    "correctAnswerIndex": "3",
+    "question": "Melyik ma az ország legnagyobb megyéje?",
+    "answer2": "Borsod-Abaúj-Zemplén megye",
+    "answer3": "Bács-Kiskun megye"
+  },
+  {
+    "answer3": "Petőfi Sándor",
+    "answer1": "Arany János",
+    "question": "Ki a szerzője a \"Zalán futása\" című eposznak?",
+    "answer4": "Kölcsey Ferenc",
+    "correctAnswerIndex": "2",
+    "answer2": "Vörösmarty Mihály",
+    "id": 111
+  },
+  {
+    "answer1": "Kubai eredetű spanyol tánc",
+    "id": 36,
+    "answer4": "Spanyolországi autonóm közösség",
+    "answer3": "Közkedvelt spanyol ital",
+    "answer2": "Közkedvelt spanyol étel",
+    "correctAnswerIndex": "1",
+    "question": "Mi az a habanéra?"
+  },
+  {
+    "question": "Ki fedezte fel a villámhárítót?",
+    "answer1": "T.A. Edison",
+    "answer2": "Benjamin Franklin",
+    "answer3": "Graham Bell",
+    "correctAnswerIndex": "2",
+    "answer4": "Guglielmo Marconi",
+    "id": 125
+  },
+  {
+    "question": "Ki volt az alvilág révésze?",
+    "correctAnswerIndex": "3",
+    "answer4": "Héphaisztosz",
+    "answer3": "Kharón",
+    "id": 187,
+    "answer1": "Cerberus",
+    "answer2": "Khitón"
+  },
+  {
+    "answer4": "Görgey Artúr",
+    "correctAnswerIndex": "3",
+    "answer1": "Hunyadi János",
+    "id": 62,
+    "answer2": "Mikes Kelemen",
+    "question": "Az alábbiak közül ki volt magyar király?",
+    "answer3": "Aba Sámuel"
+  },
+  {
+    "answer2": "Angol",
+    "correctAnswerIndex": "1",
+    "answer3": "Francia",
+    "question": "Milyen királyfi Hamlet?",
+    "answer4": "Skót",
+    "id": 99,
+    "answer1": "Dán"
+  },
+  {
+    "answer1": "Robert Kochról",
+    "question": "Kiről nevezték el az X-sugarakat?",
+    "answer4": "Wilhelm Röntgenről",
+    "answer2": "Raul Ehrlichről",
+    "answer3": "Konrad Lorenzről",
+    "correctAnswerIndex": "4",
+    "id": 216
+  },
+  {
+    "answer1": "Khefren",
+    "answer4": "Mükerinosz",
+    "answer2": "Kheopsz",
+    "question": "Melyik fáraó nevét viseli a világ legnagyobb piramisa?",
+    "id": 220,
+    "correctAnswerIndex": "2",
+    "answer3": "Ramszesz"
+  },
+  {
+    "answer3": "Pezsgőben",
+    "question": "Miben van az igazság a régi latin mondás szerint?",
+    "correctAnswerIndex": "4",
+    "answer4": "Borban",
+    "answer1": "Sörben",
+    "answer2": "Pálinkában",
+    "id": 61
+  },
+  {
+    "question": "Melyik sportág versenysorozata a Davis kupa?",
+    "answer2": "Golf",
+    "answer4": "Tenisz",
+    "answer1": "Labdarúgás",
+    "answer3": "Vízilabda",
+    "id": 56,
+    "correctAnswerIndex": "4"
+  },
+  {
+    "correctAnswerIndex": "2",
+    "answer2": "Piros",
+    "question": "Milyen színű volt az úttörőnyakkendő?",
+    "answer1": "Fekete",
+    "id": 74,
+    "answer4": "Zöld",
+    "answer3": "Fehér"
+  },
+  {
+    "id": 115,
+    "answer1": "Borneo",
+    "answer2": "Celebesz",
+    "question": "Melyik a világ legnagyobb szigete?",
+    "correctAnswerIndex": "3",
+    "answer3": "Grönland",
+    "answer4": "Madagaszkár"
+  },
+  {
+    "correctAnswerIndex": "3",
+    "answer4": "Űrrepülőgépek",
+    "answer2": "Vitorlázó gépek",
+    "answer1": "Utasszállító gépek",
+    "id": 101,
+    "answer3": "Vadászgépek",
+    "question": "Milyen típusú repülőgépek a sokat emlegetett MIG-ek?"
+  },
+  {
+    "answer2": "Londonban",
+    "answer4": "Párizsban",
+    "question": "Melyik európai városban van az Angyalvár?",
+    "answer3": "Rómában",
+    "correctAnswerIndex": "3",
+    "answer1": "Prágában",
+    "id": 126
+  },
+  {
+    "answer4": "Siló",
+    "answer1": "Réti gyom",
+    "correctAnswerIndex": "2",
+    "answer2": "Majomfajta",
+    "question": "Mi a gibbon?",
+    "answer3": "Mérgesgomba",
+    "id": 130
+  },
+  {
+    "answer1": "Zsindely",
+    "answer3": "Zsanér",
+    "correctAnswerIndex": "3",
+    "answer4": "Zsenír",
+    "answer2": "Zsarátnok",
+    "id": 124,
+    "question": "Mi a csuklópánt idegen, de általánosan használt neve?"
+  },
+  {
+    "answer4": "Libido",
+    "question": "Hogy nevezzük az operák és operettek szövegkönyvét?",
+    "answer1": "Librettó",
+    "correctAnswerIndex": "1",
+    "id": 207,
+    "answer2": "Libéria",
+    "answer3": "Libero"
+  },
+  {
+    "correctAnswerIndex": "1",
+    "answer2": "Thököly Ferenc",
+    "question": "Ki védte Munkács várát a labancok ellen?",
+    "answer4": "Zrínyi Péter",
+    "id": 208,
+    "answer3": "Rákóczi György",
+    "answer1": "Zrínyi Ilona"
+  },
+  {
+    "answer4": "Nagypénteket",
+    "answer1": "Húshagyó keddet",
+    "answer3": "A Mikulás-ünnepet",
+    "answer2": "Pünkösdöt",
+    "question": "Melyik ünnepet nevezi a magyar néphagyomány pirosnak?",
+    "correctAnswerIndex": "2",
+    "id": 158
+  },
+  {
+    "id": 15,
+    "correctAnswerIndex": "2",
+    "question": "Mi az ámbitus?",
+    "answer2": "Kőoszlopos tornác",
+    "answer4": "Műselyem",
+    "answer1": "Szőlőfajta",
+    "answer3": "Közlemény, nyilatkozat"
+  },
+  {
+    "answer3": "Mount Everest",
+    "id": 146,
+    "answer2": "Mont Blanc",
+    "answer4": "Jungfrau",
+    "question": "Mi Európa legmagasabb pontja?",
+    "correctAnswerIndex": "2",
+    "answer1": "Grossglockner"
+  },
+  {
+    "correctAnswerIndex": "2",
+    "answer4": "Bábuska",
+    "question": "Hogy nevezték az orosz parasztot?",
+    "id": 117,
+    "answer1": "Ukáz",
+    "answer2": "Muzsik",
+    "answer3": "Pópa"
+  },
+  {
+    "question": "Ki Csongor szerelme Vörösmarty művében?",
+    "answer4": "Csenge",
+    "id": 60,
+    "correctAnswerIndex": "2",
+    "answer3": "Tündérszép Ilona",
+    "answer2": "Tünde",
+    "answer1": "Ilma"
+  },
+  {
+    "correctAnswerIndex": "1",
+    "id": 167,
+    "answer4": "IFBA",
+    "question": "Mi az Európai Labdarúgó Szövetség nevének rövidítése?",
+    "answer2": "FIFA",
+    "answer3": "GATT",
+    "answer1": "UEFA"
+  },
+  {
+    "question": "Hogy hívták a hírek latin istennőjét?",
+    "answer4": "Fáma",
+    "answer1": "Láma",
+    "id": 147,
+    "answer3": "Ráma",
+    "correctAnswerIndex": "4",
+    "answer2": "Dáma"
+  },
+  {
+    "correctAnswerIndex": "2",
+    "answer1": "Főzéshez használt páclé",
+    "answer3": "Kártevő rovar",
+    "answer2": "Az esernyő régies neve",
+    "answer4": "Geometriai alakzat",
+    "question": "Mi az a paraplé?",
+    "id": 41
+  },
+  {
+    "answer4": "Földművelő szerszám",
+    "answer3": "Ősi temetkezési hely",
+    "answer2": "Népviselet",
+    "id": 203,
+    "question": "Mi a kunhalom?",
+    "answer1": "Egytálétel",
+    "correctAnswerIndex": "3"
+  },
+  {
+    "answer1": "Niccolo Paganini",
+    "answer4": "Luciano Pavarotti",
+    "answer3": "Eros Ramazzotti",
+    "correctAnswerIndex": "1",
+    "question": "Ki volt \"az ördög hegedűse\"?",
+    "id": 38,
+    "answer2": "Paolo Conte"
+  },
+  {
+    "answer4": "Derkovits Gyula",
+    "answer1": "Szerb Antal",
+    "answer2": "Petschauer Attila",
+    "answer3": "Radnóti Miklós",
+    "id": 127,
+    "question": "Kinek a tragikus halála kapcsolódik Abda községhez?",
+    "correctAnswerIndex": "3"
+  },
+  {
+    "answer2": "Oktogon",
+    "id": 164,
+    "answer1": "Pentagon",
+    "answer3": "Hexagon",
+    "answer4": "Poligon",
+    "correctAnswerIndex": "2",
+    "question": "Mi a nyolcszögű tér vagy épület idegen neve?"
+  },
+  {
+    "answer4": "John Douglas",
+    "answer3": "John Harrison",
+    "answer1": "John Napier",
+    "correctAnswerIndex": "1",
+    "question": "Ki alkotta meg az első logaritmustáblát?",
+    "answer2": "John Doe",
+    "id": 8
+  },
+  {
+    "answer2": "Cuprum",
+    "correctAnswerIndex": "3",
+    "question": "Mi a kén latin neve?",
+    "id": 24,
+    "answer3": "Sulfur",
+    "answer4": "Potassium",
+    "answer1": "Manganum"
+  },
+  {
+    "question": "Mi az ingás ütemmérő eszköz elnevezése?",
+    "answer4": "Taktográf",
+    "id": 157,
+    "answer2": "Metronóm",
+    "answer1": "Metripond",
+    "correctAnswerIndex": "2",
+    "answer3": "Taktonóm"
+  },
+  {
+    "question": "Hány húrja van a hegedűnek?",
+    "answer4": "Hat",
+    "answer2": "Öt",
+    "correctAnswerIndex": "3",
+    "answer3": "Négy",
+    "id": 143,
+    "answer1": "Három"
+  },
+  {
+    "answer4": "Endresz György",
+    "correctAnswerIndex": "1",
+    "id": 119,
+    "answer1": "Blériot",
+    "answer2": "Gagarin",
+    "question": "Ki repülte át elsőként a La Manche csatornát?",
+    "answer3": "Lindbergh"
+  },
+  {
+    "answer3": "Mihail Bulgakov",
+    "answer2": "Makszim Gorkij",
+    "id": 194,
+    "question": "Ki írta a Mester és Margaritát?",
+    "answer1": "Ilf és Petrov",
+    "correctAnswerIndex": "3",
+    "answer4": "Alekszej Tolsztoj"
+  },
+  {
+    "answer3": "Babits Mihály",
+    "question": "Szekszárdon született, színésznőt szeretett.",
+    "answer1": "Radnóti Miklós ",
+    "answer2": "Kosztolányi Dezső",
+    "correctAnswerIndex": "3",
+    "answer4": "Karinthy Frigyes",
+    "id": 188
+  },
+  {
+    "question": "Melyik folyó partján épült London?",
+    "correctAnswerIndex": "2",
+    "answer2": "Temze",
+    "answer1": "Mersey",
+    "answer4": "Szajna",
+    "answer3": "Humber",
+    "id": 25
+  },
+  {
+    "id": 98,
+    "question": "Melyik elemhez köthető az átütő sikert jelző tapsorkán?",
+    "answer4": "Arany",
+    "correctAnswerIndex": "2",
+    "answer1": "Ezüst",
+    "answer2": "Vas",
+    "answer3": "Ólom"
+  },
+  {
+    "correctAnswerIndex": "3",
+    "answer4": "Audiometer",
+    "answer3": "Anemometer",
+    "question": "Mivel mérjük a szél sebességét?",
+    "answer1": "Speedometer",
+    "id": 11,
+    "answer2": "Tachometer"
+  },
+  {
+    "answer3": "Zeusz",
+    "id": 180,
+    "answer2": "Hádész",
+    "answer1": "Mars",
+    "correctAnswerIndex": "4",
+    "question": "Ki volt a görögök napistene?",
+    "answer4": "Heliosz"
+  },
+  {
+    "correctAnswerIndex": "2",
+    "id": 217,
+    "answer2": "Forum",
+    "answer1": "Agora",
+    "question": "Hogy hívták a rómaiknál a városok főterét, piacterét?",
+    "answer4": "Castellum",
+    "answer3": "Centrum"
+  },
+  {
+    "answer1": "Főszereplőjét",
+    "correctAnswerIndex": "3",
+    "answer4": "Negatív hősét",
+    "answer2": "Csattanóját",
+    "id": 82,
+    "answer3": "Rövid tartalmát",
+    "question": "Mit vagy kit nevezünk egy történet zanzájának?"
+  },
+  {
+    "id": 205,
+    "question": "Melyik volt Budapest második állandó hídja?",
+    "answer3": "Margit-híd",
+    "answer4": "Petőfi-híd",
+    "answer2": "Erzsébet-híd",
+    "answer1": "Lánchíd",
+    "correctAnswerIndex": "3"
+  },
+  {
+    "answer3": "Ailurofóbia",
+    "correctAnswerIndex": "4",
+    "id": 193,
+    "answer1": "Agorafóbia",
+    "question": "Zárt helyen tartózkodástól való ideges félelem?",
+    "answer4": "Klausztrofóbia",
+    "answer2": "Hidrofóbia"
+  },
+  {
+    "answer1": "Keleti küzdősportot",
+    "id": 55,
+    "answer3": "Dél-afrikai nyelvet",
+    "answer2": "Latin-amerikai táncot",
+    "question": "Mit tanul, aki mambóleckéket vesz?",
+    "answer4": "Cirkuszi artistaszámot",
+    "correctAnswerIndex": "2"
+  },
+  {
+    "id": 54,
+    "answer3": "Franciaország",
+    "answer4": "Spanyolország",
+    "question": "Melyik ország nevezetességei a Loire menti kastélyok?",
+    "correctAnswerIndex": "3",
+    "answer1": "Németország",
+    "answer2": "Ausztria"
+  },
+  {
+    "answer3": "Roger Moore",
+    "question": "Ki volt Kojak megszemélyesítője?",
+    "correctAnswerIndex": "2",
+    "answer4": "Tony Curtis",
+    "answer1": "Peter Falk",
+    "id": 196,
+    "answer2": "Telly Savalas"
+  },
+  {
+    "answer2": "100",
+    "id": 4,
+    "correctAnswerIndex": "4",
+    "answer4": "116",
+    "answer1": "99",
+    "answer3": "108",
+    "question": "Hány évig tartott a százéves háború?"
+  },
+  {
+    "question": "Mi Miskolc hegye?",
+    "answer2": "Havas",
+    "answer3": "Avas",
+    "id": 190,
+    "answer4": "Nagy Kopasz",
+    "answer1": "Zengő",
+    "correctAnswerIndex": "3"
+  },
+  {
+    "answer4": "2000",
+    "answer3": "1998",
+    "question": "Melyik évben jelent meg \"Az utolsó cserkész\" című film?",
+    "answer2": "1991",
+    "id": 45,
+    "answer1": "1985",
+    "correctAnswerIndex": "2"
+  },
+  {
+    "answer2": "28",
+    "answer4": "58",
+    "answer3": "32",
+    "question": "Hány évet uralkodott Mátyás király?",
+    "correctAnswerIndex": "3",
+    "id": 3,
+    "answer1": "22"
+  },
+  {
+    "answer1": "A kora tavaszt",
+    "answer2": "A hideg júliust",
+    "answer4": "A zord telet",
+    "correctAnswerIndex": "3",
+    "id": 95,
+    "answer3": "Az enyhe őszi napokat",
+    "question": "Az év mely szakát nevezik vénasszonyok nyarának?"
+  },
+  {
+    "question": "Melyik bolygó kering legközelebb a Naphoz?",
+    "id": 85,
+    "correctAnswerIndex": "4",
+    "answer4": "Merkúr",
+    "answer1": "Föld",
+    "answer3": "Szaturnusz",
+    "answer2": "Plútó"
+  },
+  {
+    "answer3": "kis-alföldi",
+    "answer1": "Kis-Alföldi",
+    "correctAnswerIndex": "4",
+    "id": 105,
+    "answer2": "Kis-alföldi",
+    "answer4": "kisalföldi",
+    "question": "Hogyan írjuk helyesen a tájegység \"i\" képzős alakját?"
+  },
+  {
+    "id": 212,
+    "answer2": "A Déli-sarkot",
+    "answer1": "Az Északi-sarkot",
+    "answer3": "A Sarkcsillagot",
+    "question": "Mit neveznek Arktisznak?",
+    "correctAnswerIndex": "1",
+    "answer4": "A Göncölszekeret"
+  },
+  {
+    "question": "Mit jelent a devalvál szó?",
+    "answer3": "Leértékel",
+    "answer4": "Felértékel",
+    "answer1": "Felbecsül",
+    "id": 209,
+    "answer2": "Átértékel",
+    "correctAnswerIndex": "3"
+  },
+  {
+    "id": 137,
+    "answer4": "Válság",
+    "correctAnswerIndex": "4",
+    "question": "Mi a krízis magyarul?",
+    "answer2": "Körkörös védelem",
+    "answer1": "Gazdagság",
+    "answer3": "Magas láz"
+  },
+  {
+    "answer4": "Kodály Zoltán",
+    "answer1": "Erkel Ferenc",
+    "question": "Ki zenésítette meg a Szózatot?",
+    "answer2": "Egressy Béni",
+    "answer3": "Egressy Gábor",
+    "id": 213,
+    "correctAnswerIndex": "2"
+  },
+  {
+    "id": 64,
+    "correctAnswerIndex": "3",
+    "answer4": "Egressy Béni",
+    "answer3": "Kálmán Imre",
+    "answer1": "Bartók Béla",
+    "answer2": "Donhányi Ernő",
+    "question": "Az alábbi zeneszerzők közül ki nevezetes operettjeiről?"
+  },
+  {
+    "id": 52,
+    "answer1": "Angol",
+    "answer4": "Portugál",
+    "question": "Mi a hivatalos nyelv Argentinában?",
+    "answer3": "Spanyol",
+    "answer2": "Francia",
+    "correctAnswerIndex": "3"
+  },
+  {
+    "answer2": "A Földközi-tengernek",
+    "question": "Minek a melléktengere az Adriai-tenger?",
+    "answer3": "Az Indiai-óceánnak",
+    "id": 89,
+    "answer4": "Az Északi-tengernek",
+    "answer1": "A Csendes-óceánnak",
+    "correctAnswerIndex": "2"
+  },
+  {
+    "answer1": "Dínár",
+    "answer4": "Font",
+    "correctAnswerIndex": "3",
+    "id": 96,
+    "answer2": "Dollár",
+    "question": "Mi Svédország hivatalos pénzneme?",
+    "answer3": "Korona"
+  },
+  {
+    "answer4": "Neptunusz",
+    "correctAnswerIndex": "3",
+    "answer3": "Jupiter",
+    "id": 156,
+    "answer2": "Uránusz",
+    "question": "Melyik a Naprendszer legnagyobb bolygója?",
+    "answer1": "Szaturnusz"
+  },
+  {
+    "answer1": "Ló",
+    "question": "Melyik volt az ember első háziállata?",
+    "id": 169,
+    "correctAnswerIndex": "3",
+    "answer3": "Kutya",
+    "answer2": "Macska",
+    "answer4": "Kecske"
+  },
+  {
+    "question": "Ki festette a Napraforgók című festményt?",
+    "correctAnswerIndex": "1",
+    "answer1": "Van Gogh",
+    "answer4": "Manet",
+    "id": 215,
+    "answer2": "Renoir",
+    "answer3": "Monet"
+  },
+  {
+    "answer1": "Kígyó",
+    "id": 80,
+    "answer2": "Oroszlán",
+    "answer3": "Fehér bálna",
+    "answer4": "Medve",
+    "question": "Milyen állat Moby Dick?",
+    "correctAnswerIndex": "3"
+  },
+  {
+    "question": "Kinek a sírján áll ez a mondat: Csak a teste?",
+    "answer3": "Gárdonyi Géza",
+    "answer4": "Jézus Krisztus",
+    "id": 153,
+    "answer1": "II. Lajos",
+    "answer2": "Uri Geller",
+    "correctAnswerIndex": "3"
+  },
+  {
+    "answer2": "1725",
+    "answer1": "1699",
+    "answer4": "1801",
+    "correctAnswerIndex": "3",
+    "question": "Mikor született Friedrich Schiller? ",
+    "answer3": "1759",
+    "id": 16
+  },
+  {
+    "answer4": "Veres Péter",
+    "correctAnswerIndex": "2",
+    "answer1": "Madách Imre",
+    "id": 181,
+    "answer3": "Jókai Mór",
+    "question": "Ki volt a nagy palóc?",
+    "answer2": "Mikszáth Kálmán"
+  },
+  {
+    "question": "Mi a neve a lengyel országgyűlésnek?",
+    "answer2": "Szkupstina",
+    "answer4": "Kneszet",
+    "correctAnswerIndex": "3",
+    "id": 162,
+    "answer3": "Szejm",
+    "answer1": "Szábor"
+  },
+  {
+    "answer3": "Molnár Ferenc",
+    "answer1": "Heltai Jenő",
+    "id": 91,
+    "answer2": "Rejtő Jenő",
+    "correctAnswerIndex": "2",
+    "answer4": "Nemere István",
+    "question": "Melyik magyar író híres légiós regényeiről?"
+  },
+  {
+    "id": 81,
+    "answer1": "Amerikai",
+    "answer4": "Kanadai",
+    "question": "Milyen gyártású a MIR űrállomás?",
+    "correctAnswerIndex": "2",
+    "answer3": "Kínai",
+    "answer2": "Szovjet"
+  },
+  {
+    "correctAnswerIndex": "3",
+    "id": 47,
+    "question": "Milyen magas lehet egy zsiráf?",
+    "answer2": "4 méter",
+    "answer4": "6 méter",
+    "answer1": "3 méter",
+    "answer3": "5 méter"
+  },
+  {
+    "answer2": "Incitatus",
+    "question": "Hogy nevezzük a régi könyvek díszes kezdőbetűit?",
+    "correctAnswerIndex": "3",
+    "answer3": "Iniciálé",
+    "id": 211,
+    "answer4": "Incitor",
+    "answer1": "Iniciátor"
+  },
+  {
+    "correctAnswerIndex": "3",
+    "answer3": "Zsakett",
+    "answer4": "Makett",
+    "answer1": "Krikett",
+    "id": 90,
+    "question": "Melyik egy ünnepélyes férfiöltözet neve?",
+    "answer2": "Krokett"
+  },
+  {
+    "id": 134,
+    "answer1": "Kandó Kálmán",
+    "answer3": "Bánki Donát",
+    "correctAnswerIndex": "4",
+    "question": "Ki alkalmazta elsőnek a dinamó elvét?",
+    "answer2": "Csonka János",
+    "answer4": "Jedlik Ányos"
+  },
+  {
+    "correctAnswerIndex": "2",
+    "answer4": "Tabu",
+    "question": "Hogyan nevezik az amerikai indiánok sátrát?",
+    "id": 219,
+    "answer3": "Mokasszin",
+    "answer1": "Tattoo",
+    "answer2": "Wigwam"
+  },
+  {
+    "question": "Mi az ólom vegyjele?",
+    "answer1": "Sn",
+    "id": 128,
+    "answer3": "As",
+    "answer2": "Pm",
+    "correctAnswerIndex": "4",
+    "answer4": "Pb"
+  },
+  {
+    "answer4": "Liliom",
+    "answer2": "Rezeda",
+    "answer1": "Pitypang",
+    "question": "Melyik virág közismert neve a gyermekláncfű?",
+    "answer3": "Pipacs",
+    "correctAnswerIndex": "1",
+    "id": 53
+  },
+  {
+    "question": "Hogyan nevezzük a néhány lépésből adott mattot?",
+    "answer4": "Kismatt",
+    "answer1": "Susztermatt",
+    "answer3": "Hóhérmatt",
+    "correctAnswerIndex": "1",
+    "id": 122,
+    "answer2": "Bolondmatt"
+  },
+  {
+    "correctAnswerIndex": "3",
+    "question": "Mit jelent magyarul \"Mont Blanc\"?",
+    "answer1": "Magas hegy",
+    "answer2": "Fehér világ",
+    "answer4": "Magas világ",
+    "answer3": "Fehér hegy",
+    "id": 133
+  },
+  {
+    "question": "Kije volt az orosz cárnak a cárevics?",
+    "answer1": "Apja",
+    "id": 57,
+    "answer2": "Felesége",
+    "correctAnswerIndex": "3",
+    "answer4": "Trónfosztója",
+    "answer3": "Trónörököse"
+  },
+  {
+    "answer1": "Faragott lábai miatt",
+    "id": 59,
+    "question": "Miért nevezünk egy ágyat baldachinos ágynak?",
+    "answer3": "Föléje kifeszített mennyezet miatt",
+    "answer4": "Dupla szélessége miatt",
+    "correctAnswerIndex": "3",
+    "answer2": "Puha matracai miatt"
+  },
+  {
+    "answer3": "Polikarbonát",
+    "correctAnswerIndex": "2",
+    "answer4": "Klór",
+    "answer1": "Titán",
+    "id": 39,
+    "question": "A gázálarc szűrőrétegében melyik a legfontosabb anyag?",
+    "answer2": "Szénpor"
+  },
+  {
+    "answer3": "Centrális",
+    "answer2": "Vertikális",
+    "id": 170,
+    "question": "Mi a horizontális ellentéte?",
+    "answer4": "Diagonális",
+    "answer1": "Origo",
+    "correctAnswerIndex": "2"
+  },
+  {
+    "correctAnswerIndex": "1",
+    "answer3": "Görögország",
+    "answer2": "Hollandia",
+    "question": "Melyik ország Helvécia?",
+    "answer1": "Svájc",
+    "id": 48,
+    "answer4": "Románia"
+  },
+  {
+    "correctAnswerIndex": "4",
+    "answer1": "Ázsiában",
+    "id": 140,
+    "answer4": "Afrikában",
+    "answer2": "Dél-Amerikában",
+    "question": "Melyik földrészen él a víziló?",
+    "answer3": "Észak-Amerikában"
+  },
+  {
+    "answer4": "15",
+    "id": 29,
+    "answer3": "13",
+    "answer2": "9",
+    "correctAnswerIndex": "3",
+    "question": "Hányszor nyerte meg Rafael Nadal a Roland Garrost?",
+    "answer1": "5"
+  },
+  {
+    "answer4": "Odüsszeusz",
+    "answer3": "Hektór",
+    "answer1": "Agamennóm",
+    "id": 197,
+    "correctAnswerIndex": "4",
+    "answer2": "Akhillesz",
+    "question": "Kinek a tanácsára építették a trójai falovat?"
+  },
+  {
+    "question": "Mi Daniel Defoe hősének a teljes neve?",
+    "answer4": "Robinson Flanders",
+    "id": 71,
+    "answer1": "Steve Robinson",
+    "correctAnswerIndex": "2",
+    "answer2": "Robinson Crusoe",
+    "answer3": "Robby Robinson"
+  },
+  {
+    "question": "Ki a veszettség elleni szérum feltalálója?",
+    "answer2": "Jonas Salk",
+    "correctAnswerIndex": "3",
+    "id": 174,
+    "answer1": "Semmelweis Ignác",
+    "answer3": "Louis Pasteur",
+    "answer4": "Korányi Frigyes"
+  },
+  {
+    "answer4": "Barátkozz az ellenféllel!",
+    "answer1": "Fő a részvétel!",
+    "answer3": "Tüzet szüntess!",
+    "answer2": "Gyorsabban, magasabbra, erősebben!",
+    "question": "Mi az olimpia jelszava magyarul?",
+    "correctAnswerIndex": "2",
+    "id": 155
+  }
+]
