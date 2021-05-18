@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "name": "quiz-game",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "firebase": "^8.2.7"
+  }
+}
